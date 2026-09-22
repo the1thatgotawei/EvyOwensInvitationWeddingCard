@@ -1,0 +1,10 @@
+{
+  "description": "Create and customize elegant digital wedding invitations to easily share with guests, simplifying event planning and RSVP management.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

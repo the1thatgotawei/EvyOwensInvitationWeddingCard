@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Lora:ital,wght@0,400;0,600;1,400;1,600&family=Raleway:wght@300;400;500;600&display=swap');
+@import 'tailwindcss';
+
+html,
+body {
+  height: 100%;
+  background-color: #f0ece3;
+  -webkit-tap-highlight-color: transparent;
+}
+
+#root {
+  min-height: 100%;
+}
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Elegant momentum scrolling on iOS */
+body {
+  -webkit-overflow-scrolling: touch;
+  overflow-x: hidden;
+}
